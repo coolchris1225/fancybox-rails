@@ -1,2 +1,2 @@
-//= require jquery.browser
+//= require jquery.browser-thumbs
 //= require jquery.fancybox
